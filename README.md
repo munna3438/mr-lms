@@ -10,3 +10,6 @@ this is our university's 2nd semester project
 - run `npm install`
 - run `php artisan migrate`
 - run `php artisan serve`
+
+email: `munna@gmail.com`
+password: `12345600`
