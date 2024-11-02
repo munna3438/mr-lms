@@ -6,6 +6,7 @@ this is our university's 2nd semester project
 - git colne `https://github.com/munna3438/mr-lms.git`
 - import database, database name is:`mr_lms`
 - cd mr-lms
+
 Now run the following commands :
 - run `composer install`
 - run `npm install`
