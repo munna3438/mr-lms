@@ -13,5 +13,4 @@ Now run the following commands :
 - run `php artisan serve`
 
 Email: `munna@gmail.com`
-
 password: `12345600`
