@@ -3,7 +3,7 @@
         <div class="d_container">
             <div class="flex justify-between  align-items-center">
                 <div>
-                    <span class="text_secondary">dashboard</span>
+                    <span class="text-[var(--light-gray)]">dashboard</span>
                 </div>
                 <div>
                     <div class="ms-3 relative">
