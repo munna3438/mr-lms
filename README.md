@@ -8,10 +8,10 @@ this is our university's 2nd semester project
 - cd mr-lms
 
 Now run the following commands :
-- run `composer install`
-- run `npm install`
-- run `php artisan migrate`
-- run `php artisan serve`
+- `composer install`
+- `npm install`
+- `php artisan migrate`
+- `php artisan serve`
 
 Email: `munna@gmail.com`
 password: `12345600`
